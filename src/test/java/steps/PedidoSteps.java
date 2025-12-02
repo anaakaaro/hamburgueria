@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 import static org.junit.jupiter.api.Assertions.*;
-
+//Test
 public class PedidoSteps {
     private CardapioService cardapioService;
     private PedidoService pedidoService;
@@ -69,7 +69,7 @@ public class PedidoSteps {
     public void o_pedido_deve_ser_aceito() {
         assertTrue(pedidoAceito, "O pedido deveria ter sido aceito");
     }
-
+    
     @Então("o pedido deve ser rejeitado")
     public void o_pedido_deve_ser_rejeitado() {
         assertFalse(pedidoAceito, "O pedido deveria ter sido rejeitado");
