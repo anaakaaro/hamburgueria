@@ -1,5 +1,11 @@
 # Peppa Lanches 🍔
 
+## 👥 Autores
+
+- Tiago Henrique Ribeiro Lemos - 42421637
+- Ana Carolina dos Santos - 42421890   
+- Lucas Silva Rodrigues
+
 Este projeto consiste na implementação de testes automatizados utilizando **Java**, **JUnit** e **Cucumber**, seguindo o estilo BDD (Behavior Driven Development). O domínio do problema é uma **hamburgueria**, onde são definidos cenários de pedido, regras de negócio e comportamentos esperados do sistema.
 
 ## Objetivo
